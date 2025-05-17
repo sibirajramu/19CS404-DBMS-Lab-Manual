@@ -312,9 +312,6 @@ ADD COLUMN net_salary number;
 
 ![image](https://github.com/user-attachments/assets/069fcc9f-5be0-400e-9cea-ae0a057886b6)
 
-## COMPLETION GRADES
-![image](https://github.com/user-attachments/assets/292189eb-909e-4c0d-9f42-44ebd02128a3)
-
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
